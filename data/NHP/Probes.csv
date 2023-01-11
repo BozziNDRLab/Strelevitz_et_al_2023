@@ -1,0 +1,6 @@
+id,name,gene-id,gene-symbol,gene-name,entrez-id,chromosome,start-position,end-position
+3993,"MmugDNA.11543.1.S1_at",1067608,"FKBP4","FK506 binding protein 4, 59kDa",708481,"11","n/a","n/a"
+11152,"MmugDNA.17908.1.S1_at",1067608,"FKBP4","FK506 binding protein 4, 59kDa",708481,"11","n/a","n/a"
+35748,"MmugDNA.39861.1.S1_at",1067608,"FKBP4","FK506 binding protein 4, 59kDa",708481,"11","n/a","n/a"
+21353,"MmugDNA.27015.1.S1_at",1075629,"FKBP5","peptidyl-prolyl cis-trans isomerase FKBP5-like",718957,"4","n/a","n/a"
+2965,"MmugDNA.10638.1.S1_at",2273,"(FKBP5)","FK506 binding protein 5",2289,"6","n/a","n/a"

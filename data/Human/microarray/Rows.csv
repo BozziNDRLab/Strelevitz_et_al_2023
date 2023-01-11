@@ -1,0 +1,8 @@
+id,name,gene-id,gene-symbol,gene-name,entrez-id,chromosome,start-position,end-position
+1056967,"A_23_P128372",2272,"FKBP4","FK506 binding protein 4, 59kDa",2288,"12","n/a","n/a"
+1056968,"A_32_P71788",2272,"FKBP4","FK506 binding protein 4, 59kDa",2288,"12","n/a","n/a"
+1056969,"CUST_2898_PI416261804",2272,"FKBP4","FK506 binding protein 4, 59kDa",2288,"12","n/a","n/a"
+1019887,"A_23_P111206",2273,"FKBP5","FK506 binding protein 5",2289,"6","n/a","n/a"
+1011980,"A_24_P38081",2273,"FKBP5","FK506 binding protein 5",2289,"6","n/a","n/a"
+1020513,"CUST_1369_PI416573500",2273,"FKBP5","FK506 binding protein 5",2289,"6","n/a","n/a"
+1015106,"CUST_1412_PI416379584",2273,"FKBP5","FK506 binding protein 5",2289,"6","n/a","n/a"
