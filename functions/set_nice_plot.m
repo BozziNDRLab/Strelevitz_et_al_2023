@@ -1,5 +1,7 @@
 function set_nice_plot(fontSize, AxesLineWidth)
-
+% general graphics, this will apply to any figure you open (groot is the
+% default figure object).
+% adoupted from: (https://anneurai.net/2016/06/13/prettier-plots-in-matlab/)
 if exist('fontSize','var')==0 || isempty(fontSize)
     fontSize=12.5; 
 end
@@ -9,8 +11,7 @@ end
 %%
 set(groot, 'DefaultAxesTickDir', 'out');
 set(groot, 'DefaultAxesTickDirMode', 'manual');
-% general graphics, this will apply to any figure you open (groot is the default figure object).
-% I have this in my startup.m file, so I don't have to retype these things whenever plotting a new fig.
+
 set(groot, ...
     'DefaultFigureColor', 'w', ...
     'DefaultAxesLineWidth', AxesLineWidth, ...

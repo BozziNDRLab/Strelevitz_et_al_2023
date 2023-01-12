@@ -1,6 +1,7 @@
 function numVec = extract_num_from_str(strCell)
 % extracting all digit number of a string
-% adoupted from https://it.mathworks.com/matlabcentral/answers/44049-extract-numbers-from-mixed-string
+% adoupted from:
+% (https://it.mathworks.com/matlabcentral/answers/44049-extract-numbers-from-mixed-string)
 numVec = [];
 for i = 1 : length(strCell)
     str = strCell{i};
