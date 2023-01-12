@@ -1,5 +1,7 @@
-% The following toolbox was used; please first add it to the Matlab search path:
-% cbrewer2(https://it.mathworks.com/matlabcentral/fileexchange/58350-cbrewer2)
+% This product includes color specifications and designs developed by
+% Cynthia Brewer (http://colorbrewer.org/); please first add it to the
+% Matlab search path:
+%   https://it.mathworks.com/matlabcentral/fileexchange/58350-cbrewer2
 % Be sure before running the following code to set the working directory as
 % the folder where the script is located (by hitting "Run" in the EDITOR
 % toolbar tab, Matlab will ask you to do it automatically)
